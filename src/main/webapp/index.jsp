@@ -14,6 +14,6 @@
 		It is now
 		<%= new java.util.Date() %></p>
 	<p>
-		You are coming from <br>hello this is mandeep <br> <h1>Anil</h1>
+		You are coming from which place <br>hello this is mandeep <br> <h1>Anil</h1>
 		<%= request.getRemoteAddr()  %></p>
 </body>
