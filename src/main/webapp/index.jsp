@@ -2,7 +2,7 @@
 <head>
 <title>Hello World!</title>
 	<br>
-	<h1> surya very good boy<h1>
+	<h1> Welcome to Enfec <h1>
 		<br>
 		<h1> Bhanu created this page</h1>
 		
@@ -14,6 +14,6 @@
 		It is now
 		<%= new java.util.Date() %></p>
 	<p>
-		You are coming from which place <br>hello this is mandeep <br> <h1>Anil</h1>
+		You are coming from which place <br>hello this is kiran <br> <h1>Enfec</h1>
 		<%= request.getRemoteAddr()  %></p>
 </body>
